@@ -10,7 +10,6 @@
  ***************************************************************
  */
 
-
 #include "os.h"
 
 //!!Global variables
@@ -19,12 +18,13 @@
 //!! Other Functions
 //!!...
 
-int main(void) {
-    
+int main(void)
+{
+
     //!!Variables and hardware initialization
     //!!...
-	
-    OS_Init();	// Initialise the OS
+
+    OS_Init(); // Initialise the OS
 
     //!!
     //!! Generate PWM signal, 1Hz, 10% duty on the LED0
@@ -33,13 +33,12 @@ int main(void) {
     LED_PwmSet(LED_ID_2, 1000, 600, 100);
     LED_PwmSet(LED_ID_3, 1000, 800, 100);
 
-
     //!!
     //!! Beep for 0.1 seconds
     Beep(100);
 
     //!!Other OS's functions
     //!!...
-	
-    OS_Start();	// Start the OS
+
+    OS_Start(); // Start the OS
 }
