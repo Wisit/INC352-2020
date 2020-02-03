@@ -28,10 +28,10 @@ int main(void)
 
     //!!
     //!! Generate PWM signal, 1Hz, 10% duty on the LED0
-    LED_PwmSet(LED_ID_0, 1000, 200, 100);
-    LED_PwmSet(LED_ID_1, 1000, 400, 100);
-    LED_PwmSet(LED_ID_2, 1000, 600, 100);
-    LED_PwmSet(LED_ID_3, 1000, 800, 100);
+    LED_PwmSet(LED_ID_0, 500, 200, 100);
+    LED_PwmSet(LED_ID_1, 500, 400, 100);
+    LED_PwmSet(LED_ID_2, 1000, 600, 500);
+    LED_PwmSet(LED_ID_3, 1000, 800, 500);
 
     //!!
     //!! Beep for 0.1 seconds
