@@ -5,30 +5,27 @@
 // 2 Hz
 
 void Controller(void *param) {
-    //LED_Inv(LED_ID_2);
+    LED_Inv(LED_ID_0);
 }
 
-void Action(void *para) {
-
-    event_t  *evt = (event_t *)para;
-    switch_t *psw = evt->sender;
-
-    int id = psw->id;
-
-    LED_Inv(id);  
-}
 
 int main(void)
 {
     OS_Init();
-    OS_TimerCreate("Timer", 200, TIMER_MODE_CONTINUEOUS, Controller);
-    
-    int i;
-    for(i=0; i<4; i++) {
-        OS_SwitchSetCallback(i, Action);
-    }
-    
-    
+
+    long   x = 1234;
+    double y = 3.4567;
+
+    char buff[64];
+    sprintf(buff, "var-x, size: %d, addr: 0x%d, value: %ld\r\n", sizeof(x), &x, x);
+    Uart1_WriteString(buff);
+
+    sprintf(buff, "var-y, size: %d, addr: 0x%d, value: %f\r\n", sizeof(y), &y, y);
+    Uart1_WriteString(buff);
+
+
+    OS_TimerCreate("Timer", 200, 1, Controller);
+
     OS_Start();
 }
 

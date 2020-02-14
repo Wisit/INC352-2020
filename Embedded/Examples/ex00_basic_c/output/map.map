@@ -100,6 +100,78 @@ c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fcompar
                               c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(feqltle.eo) (__fcompare)
 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatundisf.eo)
                               c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatunsisf.eo) (___floatundisf)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(sprintf_cdfFnopuxX.XXeo)
+                              ./output/main.o (__sprintf_cdfFnopuxX)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xprintf_cdfFnopuxX.XXeo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(sprintf_cdfFnopuxX.XXeo) (___Printf_cdfFnopuxX)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(memcpy.XX_eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(sprintf_cdfFnopuxX.XXeo) (_memcpy)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(strchr.XX_eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xprintf_cdfFnopuxX.XXeo) (_strchr)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputtxt.XX_eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xprintf_cdfFnopuxX.XXeo) (__Puttxt)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xvacopy.XX_eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xprintf_cdfFnopuxX.XXeo) (__Vacopy)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputfld_cdfFnopuxX.XXeo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xprintf_cdfFnopuxX.XXeo) (___Putfld_cdfFnopuxX)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputfld_cdfFnopuxX.XXeo) (___Ldtob_cdfFnopuxX)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xgenld_cdfFnopuxX.XXeo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (___Genld_cdfFnopuxX)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(div.XX_eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xgenld_cdfFnopuxX.XXeo) (_div)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(ldiv.XX_eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (_ldiv)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldunsca.XX_eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (__LDunscale)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xlitob.XX_eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputfld_cdfFnopuxX.XXeo) (__Litob)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xdnorm.XX_elo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldunsca.XX_eo) (__Dnorm)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(deqltle.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (___ltdf2)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dgtge.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (___gtdf2)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divdf3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (___divdf3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divsi3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (___divsi3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dpack.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divdf3.eo) (__dpack)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dunpack2.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divdf3.eo) (__dunpack2)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(extendsfdf.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputfld_cdfFnopuxX.XXeo) (___extendsfdf2)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fixdfsi.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (_(float, int, long long, double, float, short, int))
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatsidf.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (___floatsidf)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(muldf3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (___muldf3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(subdf3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo) (___subdf3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(udivsi3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xlitob.XX_eo) (___udivsi3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(umodsi3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xlitob.XX_eo) (___umodsi3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(mulsi3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(ldiv.XX_eo) (___mulsi3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xlitob.XX_eo) (___udivdi3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(adddf3.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(subdf3.eo) (___adddf3)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dcompare.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(deqltle.eo) (__dcompare)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dpropagateNaN.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dunpack2.eo) (__dPropagateNaN)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dtype.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dcompare.eo) (__dtype)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dunpack.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dunpack2.eo) (__dunpack)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatdidf.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatsidf.eo) (___floatdidf)
+c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatundidf.eo)
+                              c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatdidf.eo) (___floatundidf)
 
 
 xc16-ld 1.41 (A)
@@ -112,14 +184,14 @@ Default Scalar Model: Small
 
 section                    address   length (PC units)   length (bytes) (dec)
 -------                    -------   -----------------   --------------------
-.text                        0x200               0x726           0xab9  (2745)
-.const                       0x926                 0xe            0x15  (21)
-.text                        0x934              0x2300          0x3480  (13440)
-.dinit                      0x2c34                0x62            0x93  (147)
-.text                       0x2c96                0x40            0x60  (96)
-.init.delay32               0x2cd6                0x1c            0x2a  (42)
+.text                        0x200              0x1c66          0x2a99  (10905)
+.const                      0x1e66                0x62            0x93  (147)
+.text                       0x1ec8              0x2136          0x31d1  (12753)
+.dinit                      0x3ffe                0xe2           0x153  (339)
+.text                       0x40e0               0x21e           0x32d  (813)
+.init.delay32               0x42fe                0x1c            0x2a  (42)
 
-                 Total "program" memory used (bytes):         0x406b  (16491) 33%
+                 Total "program" memory used (bytes):         0x61a7  (24999) 50%
 
 
 "data" Memory  [Origin = 0x800, Length = 0x2000]
@@ -131,9 +203,12 @@ section                    address      alignment gaps    total length  (dec)
 .nbss                        0x81a                   0             0x4  (4)
 .ndata                       0x81e                   0             0x2  (2)
 .nbss                        0x820                   0             0x4  (4)
-.bss                         0x824                   0          0x126e  (4718)
+.bss                         0x824                   0          0x11d0  (4560)
+.data                       0x19f4                   0            0x58  (88)
+.bss                        0x1a4c                   0            0x9e  (158)
+.data                       0x1aea                   0            0x3e  (62)
 
-                 Total "data" memory used (bytes):         0x1292  (4754) 58%
+                 Total "data" memory used (bytes):         0x1328  (4904) 59%
 
 
 Dynamic Memory Usage
@@ -141,9 +216,9 @@ Dynamic Memory Usage
 region                     address                      maximum length  (dec)
 ------                     -------                      ---------------------
 heap                             0                                   0  (0)
-stack                       0x1a92                               0xd6e  (3438)
+stack                       0x1b28                               0xcd8  (3288)
 
-                 Maximum dynamic memory (bytes):          0xd6e  (3438)
+                 Maximum dynamic memory (bytes):          0xcd8  (3288)
 
 Note: Project is using a large data memory model when small data memory model is sufficient.
 
@@ -169,9 +244,9 @@ External Symbols in Data Memory (by address):
                     0x187c                  _os_cbk
                     0x188c                  _os_sys_time
                     0x199a                  _worker_objects
-                    0x19f4                  _timers
-                    0x1a3a                  _leds
-                    0x1a6a                  _switches
+                    0x1a4c                  _timers
+                    0x1a92                  _leds
+                    0x1ac2                  _switches
 
 External Symbols in Data Memory (by name):
 
@@ -182,16 +257,16 @@ External Symbols in Data Memory (by name):
                     0x081a                  ___beep_ticks
                     0x0812                  ___current_cpu_ipl
                     0x0814                  ___disable_isr_count
-                    0x1a3a                  _leds
+                    0x1a92                  _leds
                     0x1872                  _os
                     0x187c                  _os_cbk
                     0x0800                  _os_sleep_ticks
                     0x188c                  _os_sys_time
                     0x081e                  _repeat_interval
-                    0x1a6a                  _switches
+                    0x1ac2                  _switches
                     0x0802                  _sys_cbk_ticks
                     0x0820                  _timer_count_g
-                    0x19f4                  _timers
+                    0x1a4c                  _timers
                     0x12a0                  _u1_ring
                     0x1326                  _u2_ring
                     0x0824                  _uart1
@@ -215,8 +290,8 @@ External Symbols in Program Memory (by address):
                   0x000606                  ___subsf3
                   0x000608                  ___addsf3
                   0x0006c2                  ___divsf3
-                  0x000746                  ___ltsf2
                   0x000746                  ___lesf2
+                  0x000746                  ___ltsf2
                   0x000746                  ___eqsf2
                   0x00074a                  ___fixunssfsi
                   0x000780                  ___floatunsisf
@@ -229,253 +304,341 @@ External Symbols in Program Memory (by address):
                   0x00082a                  ___mulsf3
                   0x000892                  __fcompare
                   0x0008c8                  ___floatundisf
-                  0x000934                  _Uart1_GetRingBuffer
-                  0x00096c                  _Uart2_GetRingBuffer
-                  0x0009a4                  _Uart1_ClearRingBuffer
-                  0x0009ce                  _Uart2_ClearRingBuffer
-                  0x0009f8                  _Uart1_Init
-                  0x000b00                  _Uart2_Init
-                  0x000c08                  _Uart1_AsyncWriteString
-                  0x000c92                  _Uart2_AsyncWriteString
-                  0x000d1a                  _Uart1_AsyncWriteBytes
-                  0x000d8e                  _Uart1_AsyncWriteData
-                  0x000e0e                  _Uart1_AsyncPutByte
-                  0x000e64                  _Uart2_AsyncWriteBytes
-                  0x000ed8                  _Uart2_AsyncWriteData
-                  0x000f58                  _Uart2_AsyncPutByte
-                  0x000fde                  _Uart1_WriteString
-                  0x001008                  _Uart2_WriteString
-                  0x001032                  _Uart1_PutByte
-                  0x001040                  _Uart2_PutByte
-                  0x00104e                  _Uart1_WriteBytes
-                  0x001082                  _Uart2_WriteBytes
-                  0x0010b6                  _Uart1_GetByte
-                  0x0010d6                  _Uart2_GetByte
-                  0x0010f6                  _OS_SystemTickSetCallback
-                  0x001108                  _OS_Uart1SetRxCallback
-                  0x001114                  _OS_Uart1SetLineReceivedCallback
-                  0x001120                  _OS_Uart1SetTxCallback
-                  0x00112c                  _OS_Uart2SetRxCallback
-                  0x001138                  _OS_Uart2SetLineReceivedCallback
-                  0x001144                  _OS_Uart2SetTxCallback
-                  0x001150                  _OS_WiFiSetFrameReceivedCallback
-                  0x00115c                  _OS_TimeService
-                  0x0011a8                  _OS_TimeGet
-                  0x0011cc                  _OS_TimeSet
-                  0x0011f0                  _OS_TimeHighResolution
-                  0x001220                  _OS_TimeMicroseconds
-                  0x001248                  _OS_TimeMilliseconds
-                  0x001252                  _OS_TickedCheck
-                  0x001264                  _OS_TimerCoreInit
-                  0x001282                  _OS_Sleep
-                  0x00128e                  _OS_Initialise
-                  0x0012a6                  _OS_WiFiFrameDetect
-                  0x00142a                  _OS_LineDetect
-                  0x00148c                  _OS_Execute
-                  0x0016bc                  _str_length
-                  0x0016e2                  _str_copy
-                  0x00171c                  _str_raw_copy
-                  0x00175a                  _str_index_of_first_token
-                  0x0017c4                  _str_raw_index_of_first_token
-                  0x00182e                  _str_index_of_last_token
-                  0x00189e                  _str_first_char
-                  0x0018e0                  _str_index_of_first_char
-                  0x001916                  _str_index_of_last_char
-                  0x00194e                  _str_last_char
-                  0x001994                  _str_sub_string
-                  0x001a22                  _str_crop_string
-                  0x001a7c                  _str_to_int
-                  0x001b0c                  _str_trim_left
-                  0x001b62                  _str_trim_right
-                  0x001bb4                  _str_remove_char
-                  0x001c06                  _str_replace_char
-                  0x001c66                  _LED_Service
-                  0x001d3a                  _LED_Flash
-                  0x001d56                  _LED_ModeSet
-                  0x001d6e                  _LED_PwmSet
-                  0x001da0                  _LED_SetPwmPeriod
-                  0x001dc8                  _LED_PwmSetOnTime
-                  0x001df0                  _LED_PwmSetShift
-                  0x001e18                  _LED_Write
-                  0x001e90                  _LED_Read
-                  0x001ec6                  _LED_Init
-                  0x001f1e                  _LED_Set
-                  0x001f50                  _LED_Clr
-                  0x001f82                  _LED_Inv
-                  0x00201c                  _LED_Get
-                  0x002080                  _OS_WorkerInit
-                  0x0020d2                  _OS_WorkerCreate
-                  0x002144                  _OS_WorkerDelete
-                  0x0021b0                  _OS_WorkerSetCallback
-                  0x0021ce                  _OS_WorkerSleep
-                  0x0021f8                  _OS_WorkerWakeup
-                  0x002226                  _OS_WorkerWaitData
-                  0x002250                  _OS_WorkerSendData
-                  0x00227e                  _OS_WorkerService
-                  0x002360                  _PSW_Init
-                  0x0023a0                  _OS_SwitchSetCallback
-                  0x0023ba                  _PSW_Get
-                  0x002424                  _PSW_Scan
-                  0x002462                  _PSW_Read
-                  0x0024d2                  _PSW_Service
-                  0x0025ea                  _OS_TimerInit
-                  0x002636                  _OS_TimerCreate
-                  0x0026a4                  _OS_TimerDelete
-                  0x002702                  _OS_TimerSetCallback
-                  0x002720                  _OS_TimerSetTicks
-                  0x00273e                  _OS_TimerStop
-                  0x00275a                  _OS_TimerStart
-                  0x00277e                  _OS_TimerService
-                  0x00284a                  _Beep_Init
-                  0x00288a                  _Beep_FreqSet
-                  0x0028d6                  _Beep_PowerSet
-                  0x002902                  _Beep
-                  0x00293e                  _Beep_Service
-                  0x00296c                  _Queue_Init
-                  0x00299c                  _Queue_Put
-                  0x0029f8                  _Queue_Get
-                  0x002a58                  _Queue_Space
-                  0x002a6a                  _OS_EventPut
-                  0x002ab6                  _OS_EventGet
-                  0x002b04                  _OS_EventLoop
-                  0x002b1a                  _ADC_Service
-                  0x002b20                  _Timer3Init
-                  0x002b3c                  _ADC_Scan
-                  0x002b42                  _ADC_Read
-                  0x002b54                  _ADC_Init
-                  0x002bc6                  _Controller
-                  0x002bce                  _Action
-                  0x002bee                  _main
-                  0x002c96                  _MCU_UnlockRegisters
-                  0x002ca8                  _MCU_LockRegisters
-                  0x002cba                  _MCU_Init
-                  0x002cd6                  ___delay32
+                  0x000926                  sprintf_cdfFnopuxX.XXeo:_prout
+                  0x000934                  __sprintf_cdfFnopuxX
+                  0x000952                  ___Printf_cdfFnopuxX
+                  0x000ab6                  _memcpy
+                  0x000ac4                  _strchr
+                  0x000adc                  __Puttxt
+                  0x000c54                  __Vacopy
+                  0x000c58                  ___Putfld_cdfFnopuxX
+                  0x000efe                  ___Ldtob_cdfFnopuxX
+                  0x00114e                  ___Genld_cdfFnopuxX
+                  0x001356                  _div
+                  0x00136c                  _ldiv
+                  0x001396                  __LDunscale
+                  0x0013ea                  __Litob
+                  0x001648                  __Dnorm
+                  0x0016e0                  ___ltdf2
+                  0x0016e0                  ___eqdf2
+                  0x0016e0                  ___ledf2
+                  0x0016ea                  ___gtdf2
+                  0x0016ea                  ___gedf2
+                  0x0016f4                  ___divdf3
+                  0x0017a8                  ___divsi3
+                  0x0017c6                  __dpack
+                  0x00181e                  __dunpack2
+                  0x001840                  __dreturnNaN
+                  0x001846                  __dunpack2exit
+                  0x001850                  ___extendsfdf2
+                  0x00188e                  ___fixdfsi
+                  0x0018e6                  ___floatsidf
+                  0x0018ec                  ___muldf3
+                  0x0019d8                  ___subdf3
+                  0x0019dc                  ___udivsi3
+                  0x0019fc                  ___umodsi3
+                  0x001a02                  ___mulp32eds3
+                  0x001a02                  ___mulp32peds3
+                  0x001a02                  ___mulsi3
+                  0x001a5a                  ___udivmoddi3
+                  0x001b40                  ___udivdi3
+                  0x001b4e                  ___umoddi3
+                  0x001b56                  ___divdi3
+                  0x001bb6                  ___moddi3
+                  0x001c14                  ___adddf3
+                  0x001d10                  __dcompare
+                  0x001d62                  __dPropagateNaN
+                  0x001d7e                  __dtype
+                  0x001da2                  __dunpack
+                  0x001df0                  ___floatdidf
+                  0x001e10                  ___floatundidf
+                  0x001ec8                  _Uart1_GetRingBuffer
+                  0x001f00                  _Uart2_GetRingBuffer
+                  0x001f38                  _Uart1_ClearRingBuffer
+                  0x001f62                  _Uart2_ClearRingBuffer
+                  0x001f8c                  _Uart1_Init
+                  0x002094                  _Uart2_Init
+                  0x00219c                  _Uart1_AsyncWriteString
+                  0x002226                  _Uart2_AsyncWriteString
+                  0x0022ae                  _Uart1_AsyncWriteBytes
+                  0x002322                  _Uart1_AsyncWriteData
+                  0x0023a2                  _Uart1_AsyncPutByte
+                  0x0023f8                  _Uart2_AsyncWriteBytes
+                  0x00246c                  _Uart2_AsyncWriteData
+                  0x0024ec                  _Uart2_AsyncPutByte
+                  0x002572                  _Uart1_WriteString
+                  0x00259c                  _Uart2_WriteString
+                  0x0025c6                  _Uart1_PutByte
+                  0x0025d4                  _Uart2_PutByte
+                  0x0025e2                  _Uart1_WriteBytes
+                  0x002616                  _Uart2_WriteBytes
+                  0x00264a                  _Uart1_GetByte
+                  0x00266a                  _Uart2_GetByte
+                  0x00268a                  _OS_SystemTickSetCallback
+                  0x00269c                  _OS_Uart1SetRxCallback
+                  0x0026a8                  _OS_Uart1SetLineReceivedCallback
+                  0x0026b4                  _OS_Uart1SetTxCallback
+                  0x0026c0                  _OS_Uart2SetRxCallback
+                  0x0026cc                  _OS_Uart2SetLineReceivedCallback
+                  0x0026d8                  _OS_Uart2SetTxCallback
+                  0x0026e4                  _OS_WiFiSetFrameReceivedCallback
+                  0x0026f0                  _OS_TimeService
+                  0x00273c                  _OS_TimeGet
+                  0x002760                  _OS_TimeSet
+                  0x002784                  _OS_TimeHighResolution
+                  0x0027b4                  _OS_TimeMicroseconds
+                  0x0027dc                  _OS_TimeMilliseconds
+                  0x0027e6                  _OS_TickedCheck
+                  0x0027f8                  _OS_TimerCoreInit
+                  0x002816                  _OS_Sleep
+                  0x002822                  _OS_Initialise
+                  0x00283a                  _OS_WiFiFrameDetect
+                  0x0029be                  _OS_LineDetect
+                  0x002a20                  _OS_Execute
+                  0x002c50                  _str_length
+                  0x002c76                  _str_copy
+                  0x002cb0                  _str_raw_copy
+                  0x002cee                  _str_index_of_first_token
+                  0x002d58                  _str_raw_index_of_first_token
+                  0x002dc2                  _str_index_of_last_token
+                  0x002e32                  _str_first_char
+                  0x002e74                  _str_index_of_first_char
+                  0x002eaa                  _str_index_of_last_char
+                  0x002ee2                  _str_last_char
+                  0x002f28                  _str_sub_string
+                  0x002fb6                  _str_crop_string
+                  0x003010                  _str_to_int
+                  0x0030a0                  _str_trim_left
+                  0x0030f6                  _str_trim_right
+                  0x003148                  _str_remove_char
+                  0x00319a                  _str_replace_char
+                  0x0031fa                  _LED_Service
+                  0x0032ce                  _LED_Flash
+                  0x0032ea                  _LED_ModeSet
+                  0x003302                  _LED_PwmSet
+                  0x003334                  _LED_SetPwmPeriod
+                  0x00335c                  _LED_PwmSetOnTime
+                  0x003384                  _LED_PwmSetShift
+                  0x0033ac                  _LED_Write
+                  0x003424                  _LED_Read
+                  0x00345a                  _LED_Init
+                  0x0034b2                  _LED_Set
+                  0x0034e4                  _LED_Clr
+                  0x003516                  _LED_Inv
+                  0x0035b0                  _LED_Get
+                  0x003614                  _OS_WorkerInit
+                  0x003666                  _OS_WorkerCreate
+                  0x0036d8                  _OS_WorkerDelete
+                  0x003744                  _OS_WorkerSetCallback
+                  0x003762                  _OS_WorkerSleep
+                  0x00378c                  _OS_WorkerWakeup
+                  0x0037ba                  _OS_WorkerWaitData
+                  0x0037e4                  _OS_WorkerSendData
+                  0x003812                  _OS_WorkerService
+                  0x0038f4                  _PSW_Init
+                  0x003934                  _OS_SwitchSetCallback
+                  0x00394e                  _PSW_Get
+                  0x0039b8                  _PSW_Scan
+                  0x0039f6                  _PSW_Read
+                  0x003a66                  _PSW_Service
+                  0x003b7e                  _OS_TimerInit
+                  0x003bca                  _OS_TimerCreate
+                  0x003c38                  _OS_TimerDelete
+                  0x003c96                  _OS_TimerSetCallback
+                  0x003cb4                  _OS_TimerSetTicks
+                  0x003cd2                  _OS_TimerStop
+                  0x003cee                  _OS_TimerStart
+                  0x003d12                  _OS_TimerService
+                  0x003dde                  _Beep_Init
+                  0x003e1e                  _Beep_FreqSet
+                  0x003e6a                  _Beep_PowerSet
+                  0x003e96                  _Beep
+                  0x003ed2                  _Beep_Service
+                  0x003f00                  _Queue_Init
+                  0x003f30                  _Queue_Put
+                  0x003f8c                  _Queue_Get
+                  0x003fec                  _Queue_Space
+                  0x0040e0                  _OS_EventPut
+                  0x00412c                  _OS_EventGet
+                  0x00417a                  _OS_EventLoop
+                  0x004190                  _ADC_Service
+                  0x004196                  _Timer3Init
+                  0x0041b2                  _ADC_Scan
+                  0x0041b8                  _ADC_Read
+                  0x0041ca                  _ADC_Init
+                  0x00423c                  _Controller
+                  0x004248                  _main
+                  0x0042be                  _MCU_UnlockRegisters
+                  0x0042d0                  _MCU_LockRegisters
+                  0x0042e2                  _MCU_Init
+                  0x0042fe                  ___delay32
 
 External Symbols in Program Memory (by name):
 
-                  0x002b54                  _ADC_Init
-                  0x002b42                  _ADC_Read
-                  0x002b3c                  _ADC_Scan
-                  0x002b1a                  _ADC_Service
-                  0x002bce                  _Action
-                  0x002902                  _Beep
-                  0x00288a                  _Beep_FreqSet
-                  0x00284a                  _Beep_Init
-                  0x0028d6                  _Beep_PowerSet
-                  0x00293e                  _Beep_Service
-                  0x002bc6                  _Controller
-                  0x001f50                  _LED_Clr
-                  0x001d3a                  _LED_Flash
-                  0x00201c                  _LED_Get
-                  0x001ec6                  _LED_Init
-                  0x001f82                  _LED_Inv
-                  0x001d56                  _LED_ModeSet
-                  0x001d6e                  _LED_PwmSet
-                  0x001dc8                  _LED_PwmSetOnTime
-                  0x001df0                  _LED_PwmSetShift
-                  0x001e90                  _LED_Read
-                  0x001c66                  _LED_Service
-                  0x001f1e                  _LED_Set
-                  0x001da0                  _LED_SetPwmPeriod
-                  0x001e18                  _LED_Write
-                  0x002cba                  _MCU_Init
-                  0x002ca8                  _MCU_LockRegisters
-                  0x002c96                  _MCU_UnlockRegisters
-                  0x002ab6                  _OS_EventGet
-                  0x002b04                  _OS_EventLoop
-                  0x002a6a                  _OS_EventPut
-                  0x00148c                  _OS_Execute
-                  0x00128e                  _OS_Initialise
-                  0x00142a                  _OS_LineDetect
-                  0x001282                  _OS_Sleep
-                  0x0023a0                  _OS_SwitchSetCallback
-                  0x0010f6                  _OS_SystemTickSetCallback
-                  0x001252                  _OS_TickedCheck
-                  0x0011a8                  _OS_TimeGet
-                  0x0011f0                  _OS_TimeHighResolution
-                  0x001220                  _OS_TimeMicroseconds
-                  0x001248                  _OS_TimeMilliseconds
-                  0x00115c                  _OS_TimeService
-                  0x0011cc                  _OS_TimeSet
-                  0x001264                  _OS_TimerCoreInit
-                  0x002636                  _OS_TimerCreate
-                  0x0026a4                  _OS_TimerDelete
-                  0x0025ea                  _OS_TimerInit
-                  0x00277e                  _OS_TimerService
-                  0x002702                  _OS_TimerSetCallback
-                  0x002720                  _OS_TimerSetTicks
-                  0x00275a                  _OS_TimerStart
-                  0x00273e                  _OS_TimerStop
-                  0x001114                  _OS_Uart1SetLineReceivedCallback
-                  0x001108                  _OS_Uart1SetRxCallback
-                  0x001120                  _OS_Uart1SetTxCallback
-                  0x001138                  _OS_Uart2SetLineReceivedCallback
-                  0x00112c                  _OS_Uart2SetRxCallback
-                  0x001144                  _OS_Uart2SetTxCallback
-                  0x0012a6                  _OS_WiFiFrameDetect
-                  0x001150                  _OS_WiFiSetFrameReceivedCallback
-                  0x0020d2                  _OS_WorkerCreate
-                  0x002144                  _OS_WorkerDelete
-                  0x002080                  _OS_WorkerInit
-                  0x002250                  _OS_WorkerSendData
-                  0x00227e                  _OS_WorkerService
-                  0x0021b0                  _OS_WorkerSetCallback
-                  0x0021ce                  _OS_WorkerSleep
-                  0x002226                  _OS_WorkerWaitData
-                  0x0021f8                  _OS_WorkerWakeup
-                  0x0023ba                  _PSW_Get
-                  0x002360                  _PSW_Init
-                  0x002462                  _PSW_Read
-                  0x002424                  _PSW_Scan
-                  0x0024d2                  _PSW_Service
-                  0x0029f8                  _Queue_Get
-                  0x00296c                  _Queue_Init
-                  0x00299c                  _Queue_Put
-                  0x002a58                  _Queue_Space
-                  0x002b20                  _Timer3Init
-                  0x000e0e                  _Uart1_AsyncPutByte
-                  0x000d1a                  _Uart1_AsyncWriteBytes
-                  0x000d8e                  _Uart1_AsyncWriteData
-                  0x000c08                  _Uart1_AsyncWriteString
-                  0x0009a4                  _Uart1_ClearRingBuffer
-                  0x0010b6                  _Uart1_GetByte
-                  0x000934                  _Uart1_GetRingBuffer
-                  0x0009f8                  _Uart1_Init
-                  0x001032                  _Uart1_PutByte
-                  0x00104e                  _Uart1_WriteBytes
-                  0x000fde                  _Uart1_WriteString
-                  0x000f58                  _Uart2_AsyncPutByte
-                  0x000e64                  _Uart2_AsyncWriteBytes
-                  0x000ed8                  _Uart2_AsyncWriteData
-                  0x000c92                  _Uart2_AsyncWriteString
-                  0x0009ce                  _Uart2_ClearRingBuffer
-                  0x0010d6                  _Uart2_GetByte
-                  0x00096c                  _Uart2_GetRingBuffer
-                  0x000b00                  _Uart2_Init
-                  0x001040                  _Uart2_PutByte
-                  0x001082                  _Uart2_WriteBytes
-                  0x001008                  _Uart2_WriteString
+                  0x0041ca                  _ADC_Init
+                  0x0041b8                  _ADC_Read
+                  0x0041b2                  _ADC_Scan
+                  0x004190                  _ADC_Service
+                  0x003e96                  _Beep
+                  0x003e1e                  _Beep_FreqSet
+                  0x003dde                  _Beep_Init
+                  0x003e6a                  _Beep_PowerSet
+                  0x003ed2                  _Beep_Service
+                  0x00423c                  _Controller
+                  0x0034e4                  _LED_Clr
+                  0x0032ce                  _LED_Flash
+                  0x0035b0                  _LED_Get
+                  0x00345a                  _LED_Init
+                  0x003516                  _LED_Inv
+                  0x0032ea                  _LED_ModeSet
+                  0x003302                  _LED_PwmSet
+                  0x00335c                  _LED_PwmSetOnTime
+                  0x003384                  _LED_PwmSetShift
+                  0x003424                  _LED_Read
+                  0x0031fa                  _LED_Service
+                  0x0034b2                  _LED_Set
+                  0x003334                  _LED_SetPwmPeriod
+                  0x0033ac                  _LED_Write
+                  0x0042e2                  _MCU_Init
+                  0x0042d0                  _MCU_LockRegisters
+                  0x0042be                  _MCU_UnlockRegisters
+                  0x00412c                  _OS_EventGet
+                  0x00417a                  _OS_EventLoop
+                  0x0040e0                  _OS_EventPut
+                  0x002a20                  _OS_Execute
+                  0x002822                  _OS_Initialise
+                  0x0029be                  _OS_LineDetect
+                  0x002816                  _OS_Sleep
+                  0x003934                  _OS_SwitchSetCallback
+                  0x00268a                  _OS_SystemTickSetCallback
+                  0x0027e6                  _OS_TickedCheck
+                  0x00273c                  _OS_TimeGet
+                  0x002784                  _OS_TimeHighResolution
+                  0x0027b4                  _OS_TimeMicroseconds
+                  0x0027dc                  _OS_TimeMilliseconds
+                  0x0026f0                  _OS_TimeService
+                  0x002760                  _OS_TimeSet
+                  0x0027f8                  _OS_TimerCoreInit
+                  0x003bca                  _OS_TimerCreate
+                  0x003c38                  _OS_TimerDelete
+                  0x003b7e                  _OS_TimerInit
+                  0x003d12                  _OS_TimerService
+                  0x003c96                  _OS_TimerSetCallback
+                  0x003cb4                  _OS_TimerSetTicks
+                  0x003cee                  _OS_TimerStart
+                  0x003cd2                  _OS_TimerStop
+                  0x0026a8                  _OS_Uart1SetLineReceivedCallback
+                  0x00269c                  _OS_Uart1SetRxCallback
+                  0x0026b4                  _OS_Uart1SetTxCallback
+                  0x0026cc                  _OS_Uart2SetLineReceivedCallback
+                  0x0026c0                  _OS_Uart2SetRxCallback
+                  0x0026d8                  _OS_Uart2SetTxCallback
+                  0x00283a                  _OS_WiFiFrameDetect
+                  0x0026e4                  _OS_WiFiSetFrameReceivedCallback
+                  0x003666                  _OS_WorkerCreate
+                  0x0036d8                  _OS_WorkerDelete
+                  0x003614                  _OS_WorkerInit
+                  0x0037e4                  _OS_WorkerSendData
+                  0x003812                  _OS_WorkerService
+                  0x003744                  _OS_WorkerSetCallback
+                  0x003762                  _OS_WorkerSleep
+                  0x0037ba                  _OS_WorkerWaitData
+                  0x00378c                  _OS_WorkerWakeup
+                  0x00394e                  _PSW_Get
+                  0x0038f4                  _PSW_Init
+                  0x0039f6                  _PSW_Read
+                  0x0039b8                  _PSW_Scan
+                  0x003a66                  _PSW_Service
+                  0x003f8c                  _Queue_Get
+                  0x003f00                  _Queue_Init
+                  0x003f30                  _Queue_Put
+                  0x003fec                  _Queue_Space
+                  0x004196                  _Timer3Init
+                  0x0023a2                  _Uart1_AsyncPutByte
+                  0x0022ae                  _Uart1_AsyncWriteBytes
+                  0x002322                  _Uart1_AsyncWriteData
+                  0x00219c                  _Uart1_AsyncWriteString
+                  0x001f38                  _Uart1_ClearRingBuffer
+                  0x00264a                  _Uart1_GetByte
+                  0x001ec8                  _Uart1_GetRingBuffer
+                  0x001f8c                  _Uart1_Init
+                  0x0025c6                  _Uart1_PutByte
+                  0x0025e2                  _Uart1_WriteBytes
+                  0x002572                  _Uart1_WriteString
+                  0x0024ec                  _Uart2_AsyncPutByte
+                  0x0023f8                  _Uart2_AsyncWriteBytes
+                  0x00246c                  _Uart2_AsyncWriteData
+                  0x002226                  _Uart2_AsyncWriteString
+                  0x001f62                  _Uart2_ClearRingBuffer
+                  0x00266a                  _Uart2_GetByte
+                  0x001f00                  _Uart2_GetRingBuffer
+                  0x002094                  _Uart2_Init
+                  0x0025d4                  _Uart2_PutByte
+                  0x002616                  _Uart2_WriteBytes
+                  0x00259c                  _Uart2_WriteString
                   0x0005a0                  __ADC1Interrupt
                   0x000600                  __DefaultInterrupt
+                  0x001648                  __Dnorm
+                  0x001396                  __LDunscale
+                  0x0013ea                  __Litob
+                  0x000adc                  __Puttxt
                   0x000544                  __T1Interrupt
                   0x0005ec                  __T3Interrupt
                   0x0002d0                  __U1RXInterrupt
                   0x000390                  __U1TXInterrupt
                   0x00040e                  __U2RXInterrupt
                   0x0004ce                  __U2TXInterrupt
+                  0x000c54                  __Vacopy
+                  0x00114e                  ___Genld_cdfFnopuxX
+                  0x000efe                  ___Ldtob_cdfFnopuxX
+                  0x000952                  ___Printf_cdfFnopuxX
+                  0x000c58                  ___Putfld_cdfFnopuxX
+                  0x001c14                  ___adddf3
                   0x000608                  ___addsf3
-                  0x002cd6                  ___delay32
+                  0x0042fe                  ___delay32
+                  0x0016f4                  ___divdf3
+                  0x001b56                  ___divdi3
                   0x0006c2                  ___divsf3
+                  0x0017a8                  ___divsi3
+                  0x0016e0                  ___eqdf2
                   0x000746                  ___eqsf2
+                  0x001850                  ___extendsfdf2
+                  0x00188e                  ___fixdfsi
                   0x00074a                  ___fixunssfsi
+                  0x001df0                  ___floatdidf
+                  0x0018e6                  ___floatsidf
+                  0x001e10                  ___floatundidf
                   0x0008c8                  ___floatundisf
                   0x000780                  ___floatunsisf
+                  0x0016ea                  ___gedf2
+                  0x0016ea                  ___gtdf2
+                  0x0016e0                  ___ledf2
                   0x000746                  ___lesf2
+                  0x0016e0                  ___ltdf2
                   0x000746                  ___ltsf2
+                  0x001bb6                  ___moddi3
+                  0x0018ec                  ___muldf3
+                  0x001a02                  ___mulp32eds3
+                  0x001a02                  ___mulp32peds3
                   0x00082a                  ___mulsf3
+                  0x001a02                  ___mulsi3
+                  0x0019d8                  ___subdf3
                   0x000606                  ___subsf3
+                  0x001b40                  ___udivdi3
+                  0x001a5a                  ___udivmoddi3
+                  0x0019dc                  ___udivsi3
+                  0x001b4e                  ___umoddi3
+                  0x0019fc                  ___umodsi3
+                  0x001d62                  __dPropagateNaN
                   0x000252                  __data_init
                   0x000252                  __data_init_standard
+                  0x001d10                  __dcompare
+                  0x0017c6                  __dpack
+                  0x001840                  __dreturnNaN
+                  0x001d7e                  __dtype
+                  0x001da2                  __dunpack
+                  0x00181e                  __dunpack2
+                  0x001846                  __dunpack2exit
                   0x00080a                  __fPropagateNaN
                   0x00081c                  __fbopExit
                   0x000824                  __fbopReturnNaN
@@ -485,24 +648,30 @@ External Symbols in Program Memory (by name):
                   0x0007fa                  __funpack2
                   0x00023c                  __psv_init
                   0x000200                  __resetPRI
-                  0x002bee                  _main
-                  0x0016e2                  _str_copy
-                  0x001a22                  _str_crop_string
-                  0x00189e                  _str_first_char
-                  0x0018e0                  _str_index_of_first_char
-                  0x00175a                  _str_index_of_first_token
-                  0x001916                  _str_index_of_last_char
-                  0x00182e                  _str_index_of_last_token
-                  0x00194e                  _str_last_char
-                  0x0016bc                  _str_length
-                  0x00171c                  _str_raw_copy
-                  0x0017c4                  _str_raw_index_of_first_token
-                  0x001bb4                  _str_remove_char
-                  0x001c06                  _str_replace_char
-                  0x001994                  _str_sub_string
-                  0x001a7c                  _str_to_int
-                  0x001b0c                  _str_trim_left
-                  0x001b62                  _str_trim_right
+                  0x000934                  __sprintf_cdfFnopuxX
+                  0x001356                  _div
+                  0x00136c                  _ldiv
+                  0x004248                  _main
+                  0x000ab6                  _memcpy
+                  0x002c76                  _str_copy
+                  0x002fb6                  _str_crop_string
+                  0x002e32                  _str_first_char
+                  0x002e74                  _str_index_of_first_char
+                  0x002cee                  _str_index_of_first_token
+                  0x002eaa                  _str_index_of_last_char
+                  0x002dc2                  _str_index_of_last_token
+                  0x002ee2                  _str_last_char
+                  0x002c50                  _str_length
+                  0x002cb0                  _str_raw_copy
+                  0x002d58                  _str_raw_index_of_first_token
+                  0x003148                  _str_remove_char
+                  0x00319a                  _str_replace_char
+                  0x002f28                  _str_sub_string
+                  0x003010                  _str_to_int
+                  0x0030a0                  _str_trim_left
+                  0x0030f6                  _str_trim_right
+                  0x000ac4                  _strchr
+                  0x000926                  sprintf_cdfFnopuxX.XXeo:_prout
 
 Memory Configuration
 
@@ -540,7 +709,7 @@ LOAD c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libfx-elf.a
                   0x000002          0x2 SHORT 0x0 ((ABSOLUTE (__reset) >> 0x10) & 0x7f)
                   0x000003          0x2 SHORT 0x0
 
-.text             0x000200        0x726
+.text             0x000200       0x1c66
  *(.init)
  .init            0x000200         0x4c c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(crt0_standard.o)
                   0x000200                  __resetPRI
@@ -611,6 +780,118 @@ LOAD c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libfx-elf.a
  .libm.floatundisf
                   0x0008c8         0x5e c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatundisf.eo)
                   0x0008c8                  ___floatundisf
+ .libc.prout      0x000926          0xe c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(sprintf_cdfFnopuxX.XXeo)
+                  0x000926                  sprintf_cdfFnopuxX.XXeo:_prout
+ .libc._sprintf_cdfFnopuxX
+                  0x000934         0x1e c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(sprintf_cdfFnopuxX.XXeo)
+                  0x000934                  __sprintf_cdfFnopuxX
+ .libc.__Printf_cdfFnopuxX
+                  0x000952        0x164 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xprintf_cdfFnopuxX.XXeo)
+                  0x000952                  ___Printf_cdfFnopuxX
+ .libc.memcpy     0x000ab6          0xe c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(memcpy.XX_eo)
+                  0x000ab6                  _memcpy
+ .libc.strchr     0x000ac4         0x18 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(strchr.XX_eo)
+                  0x000ac4                  _strchr
+ .libc._Puttxt    0x000adc        0x178 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputtxt.XX_eo)
+                  0x000adc                  __Puttxt
+ .libc._Vacopy    0x000c54          0x4 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xvacopy.XX_eo)
+                  0x000c54                  __Vacopy
+ .libc.__Putfld_cdfFnopuxX
+                  0x000c58        0x2a6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputfld_cdfFnopuxX.XXeo)
+                  0x000c58                  ___Putfld_cdfFnopuxX
+ .libc.__Ldtob_cdfFnopuxX
+                  0x000efe        0x250 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo)
+                  0x000efe                  ___Ldtob_cdfFnopuxX
+ .libc.__Genld_cdfFnopuxX
+                  0x00114e        0x208 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xgenld_cdfFnopuxX.XXeo)
+                  0x00114e                  ___Genld_cdfFnopuxX
+ .libc.div        0x001356         0x16 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(div.XX_eo)
+                  0x001356                  _div
+ .libc.ldiv       0x00136c         0x2a c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(ldiv.XX_eo)
+                  0x00136c                  _ldiv
+ .libc._LDunscale
+                  0x001396         0x54 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldunsca.XX_eo)
+                  0x001396                  __LDunscale
+ .libc._Litob     0x0013ea        0x25e c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xlitob.XX_eo)
+                  0x0013ea                  __Litob
+ .libc._Dnorm     0x001648         0x98 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xdnorm.XX_elo)
+                  0x001648                  __Dnorm
+ .libm.eqdf2      0x0016e0          0xa c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(deqltle.eo)
+                  0x0016e0                  ___eqdf2
+                  0x0016e0                  ___ltdf2
+                  0x0016e0                  ___ledf2
+ .libm.gtdf2      0x0016ea          0xa c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dgtge.eo)
+                  0x0016ea                  ___gtdf2
+                  0x0016ea                  ___gedf2
+ .libm.divdf3     0x0016f4         0xb4 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divdf3.eo)
+                  0x0016f4                  ___divdf3
+ .libm.divsi3     0x0017a8         0x1e c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divsi3.eo)
+                  0x0017a8                  ___divsi3
+ .libm.dpack      0x0017c6         0x58 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dpack.eo)
+                  0x0017c6                  __dpack
+ .libm.dunpack2
+                  0x00181e         0x32 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dunpack2.eo)
+                  0x00181e                  __dunpack2
+                  0x001840                  __dreturnNaN
+                  0x001846                  __dunpack2exit
+ .libm.extendsfdf2
+                  0x001850         0x3e c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(extendsfdf.eo)
+                  0x001850                  ___extendsfdf2
+ .libm.fixdfsi    0x00188e         0x58 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fixdfsi.eo)
+                  0x00188e                  _(float, int, long long, double, float, short, int)
+ .libm.floatsidf
+                  0x0018e6          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatsidf.eo)
+                  0x0018e6                  ___floatsidf
+ .libm.muldf3     0x0018ec         0xec c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(muldf3.eo)
+                  0x0018ec                  ___muldf3
+ .libm.subdf3     0x0019d8          0x4 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(subdf3.eo)
+                  0x0019d8                  ___subdf3
+ .libm.udivsi3    0x0019dc         0x20 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(udivsi3.eo)
+                  0x0019dc                  ___udivsi3
+ .libm.umodsi3    0x0019fc          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(umodsi3.eo)
+                  0x0019fc                  ___umodsi3
+ .libm.mulsi3     0x001a02          0xc c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(mulsi3.eo)
+                  0x001a02                  ___mulp32peds3
+                  0x001a02                  ___mulsi3
+                  0x001a02                  ___mulp32eds3
+ .libm.__PplusBdi
+                  0x001a0e         0x26 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+ .libm.__PminusBdi
+                  0x001a34         0x26 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+ .libm.__udivmoddi3
+                  0x001a5a         0xe6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+                  0x001a5a                  ___udivmoddi3
+ .libm.__udivdi3
+                  0x001b40          0xe c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+                  0x001b40                  ___udivdi3
+ .libm.__umoddi3
+                  0x001b4e          0x8 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+                  0x001b4e                  ___umoddi3
+ .libm.__divdi3
+                  0x001b56         0x60 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+                  0x001b56                  ___divdi3
+ .libm.__moddi3
+                  0x001bb6         0x5c c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+                  0x001bb6                  ___moddi3
+ *fill*           0x001c12          0x400
+ .libm.adddf3     0x001c14         0xfc c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(adddf3.eo)
+                  0x001c14                  ___adddf3
+ .libm.dcompare
+                  0x001d10         0x52 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dcompare.eo)
+                  0x001d10                  __dcompare
+ .libm.dPropagateNaN
+                  0x001d62         0x1c c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dpropagateNaN.eo)
+                  0x001d62                  __dPropagateNaN
+ .libm.dtype      0x001d7e         0x24 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dtype.eo)
+                  0x001d7e                  __dtype
+ .libm.dunpack    0x001da2         0x4e c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dunpack.eo)
+                  0x001da2                  __dunpack
+ .libm.floatdidf
+                  0x001df0         0x20 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatdidf.eo)
+                  0x001df0                  ___floatdidf
+ .libm.floatundidf
+                  0x001e10         0x56 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatundidf.eo)
+                  0x001e10                  ___floatundidf
 
 usercode
  *(usercode)
@@ -624,54 +905,54 @@ __CONFIG1
 .comment
  *(.comment)
 
-.debug_info       0x000000       0x832b
+.debug_info       0x000000       0x818c
  *(.debug_info)
- .debug_info      0x000000        0x36f ./output/main.o
- .debug_info      0x00036f        0x333 ../../library/os-lib/lib.X.a(mcu.o)
- .debug_info      0x0006a2       0x22fb ../../library/os-lib/lib.X.a(uart.o)
- .debug_info      0x00299d        0xbca ../../library/os-lib/lib.X.a(led.o)
- .debug_info      0x003567        0x336 ../../library/os-lib/lib.X.a(event.o)
- .debug_info      0x00389d       0x134c ../../library/os-lib/lib.X.a(os.o)
- .debug_info      0x004be9        0x904 ../../library/os-lib/lib.X.a(psw.o)
- .debug_info      0x0054ed        0x6e8 ../../library/os-lib/lib.X.a(stimer.o)
- .debug_info      0x005bd5        0x7f7 ../../library/os-lib/lib.X.a(str.o)
- .debug_info      0x0063cc        0x740 ../../library/os-lib/lib.X.a(worker.o)
- .debug_info      0x006b0c        0xd9e ../../library/os-lib/lib.X.a(adc.o)
- .debug_info      0x0078aa        0x7e6 ../../library/os-lib/lib.X.a(beep.o)
- .debug_info      0x008090        0x29b ../../library/os-lib/lib.X.a(queue.o)
+ .debug_info      0x000000        0x1d0 ./output/main.o
+ .debug_info      0x0001d0        0x333 ../../library/os-lib/lib.X.a(mcu.o)
+ .debug_info      0x000503       0x22fb ../../library/os-lib/lib.X.a(uart.o)
+ .debug_info      0x0027fe        0xbca ../../library/os-lib/lib.X.a(led.o)
+ .debug_info      0x0033c8        0x336 ../../library/os-lib/lib.X.a(event.o)
+ .debug_info      0x0036fe       0x134c ../../library/os-lib/lib.X.a(os.o)
+ .debug_info      0x004a4a        0x904 ../../library/os-lib/lib.X.a(psw.o)
+ .debug_info      0x00534e        0x6e8 ../../library/os-lib/lib.X.a(stimer.o)
+ .debug_info      0x005a36        0x7f7 ../../library/os-lib/lib.X.a(str.o)
+ .debug_info      0x00622d        0x740 ../../library/os-lib/lib.X.a(worker.o)
+ .debug_info      0x00696d        0xd9e ../../library/os-lib/lib.X.a(adc.o)
+ .debug_info      0x00770b        0x7e6 ../../library/os-lib/lib.X.a(beep.o)
+ .debug_info      0x007ef1        0x29b ../../library/os-lib/lib.X.a(queue.o)
  *(.gnu.linkonce.wi.*)
 
-.debug_abbrev     0x000000       0x1154
+.debug_abbrev     0x000000       0x1115
  *(.debug_abbrev)
- .debug_abbrev    0x000000         0xc3 ./output/main.o
- .debug_abbrev    0x0000c3         0xc9 ../../library/os-lib/lib.X.a(mcu.o)
- .debug_abbrev    0x00018c        0x293 ../../library/os-lib/lib.X.a(uart.o)
- .debug_abbrev    0x00041f        0x151 ../../library/os-lib/lib.X.a(led.o)
- .debug_abbrev    0x000570         0xd5 ../../library/os-lib/lib.X.a(event.o)
- .debug_abbrev    0x000645        0x299 ../../library/os-lib/lib.X.a(os.o)
- .debug_abbrev    0x0008de        0x1e9 ../../library/os-lib/lib.X.a(psw.o)
- .debug_abbrev    0x000ac7        0x164 ../../library/os-lib/lib.X.a(stimer.o)
- .debug_abbrev    0x000c2b         0xcc ../../library/os-lib/lib.X.a(str.o)
- .debug_abbrev    0x000cf7        0x153 ../../library/os-lib/lib.X.a(worker.o)
- .debug_abbrev    0x000e4a        0x145 ../../library/os-lib/lib.X.a(adc.o)
- .debug_abbrev    0x000f8f        0x10f ../../library/os-lib/lib.X.a(beep.o)
- .debug_abbrev    0x00109e         0xb6 ../../library/os-lib/lib.X.a(queue.o)
+ .debug_abbrev    0x000000         0x84 ./output/main.o
+ .debug_abbrev    0x000084         0xc9 ../../library/os-lib/lib.X.a(mcu.o)
+ .debug_abbrev    0x00014d        0x293 ../../library/os-lib/lib.X.a(uart.o)
+ .debug_abbrev    0x0003e0        0x151 ../../library/os-lib/lib.X.a(led.o)
+ .debug_abbrev    0x000531         0xd5 ../../library/os-lib/lib.X.a(event.o)
+ .debug_abbrev    0x000606        0x299 ../../library/os-lib/lib.X.a(os.o)
+ .debug_abbrev    0x00089f        0x1e9 ../../library/os-lib/lib.X.a(psw.o)
+ .debug_abbrev    0x000a88        0x164 ../../library/os-lib/lib.X.a(stimer.o)
+ .debug_abbrev    0x000bec         0xcc ../../library/os-lib/lib.X.a(str.o)
+ .debug_abbrev    0x000cb8        0x153 ../../library/os-lib/lib.X.a(worker.o)
+ .debug_abbrev    0x000e0b        0x145 ../../library/os-lib/lib.X.a(adc.o)
+ .debug_abbrev    0x000f50        0x10f ../../library/os-lib/lib.X.a(beep.o)
+ .debug_abbrev    0x00105f         0xb6 ../../library/os-lib/lib.X.a(queue.o)
 
-.debug_line       0x000000       0x101d
+.debug_line       0x000000        0xf96
  *(.debug_line)
- .debug_line      0x000000         0xca ./output/main.o
- .debug_line      0x0000ca         0xab ../../library/os-lib/lib.X.a(mcu.o)
- .debug_line      0x000175        0x270 ../../library/os-lib/lib.X.a(uart.o)
- .debug_line      0x0003e5        0x183 ../../library/os-lib/lib.X.a(led.o)
- .debug_line      0x000568         0xc7 ../../library/os-lib/lib.X.a(event.o)
- .debug_line      0x00062f        0x21e ../../library/os-lib/lib.X.a(os.o)
- .debug_line      0x00084d        0x177 ../../library/os-lib/lib.X.a(psw.o)
- .debug_line      0x0009c4        0x185 ../../library/os-lib/lib.X.a(stimer.o)
- .debug_line      0x000b49        0x112 ../../library/os-lib/lib.X.a(str.o)
- .debug_line      0x000c5b        0x198 ../../library/os-lib/lib.X.a(worker.o)
- .debug_line      0x000df3         0xf2 ../../library/os-lib/lib.X.a(adc.o)
- .debug_line      0x000ee5         0xce ../../library/os-lib/lib.X.a(beep.o)
- .debug_line      0x000fb3         0x6a ../../library/os-lib/lib.X.a(queue.o)
+ .debug_line      0x000000         0x43 ./output/main.o
+ .debug_line      0x000043         0xab ../../library/os-lib/lib.X.a(mcu.o)
+ .debug_line      0x0000ee        0x270 ../../library/os-lib/lib.X.a(uart.o)
+ .debug_line      0x00035e        0x183 ../../library/os-lib/lib.X.a(led.o)
+ .debug_line      0x0004e1         0xc7 ../../library/os-lib/lib.X.a(event.o)
+ .debug_line      0x0005a8        0x21e ../../library/os-lib/lib.X.a(os.o)
+ .debug_line      0x0007c6        0x177 ../../library/os-lib/lib.X.a(psw.o)
+ .debug_line      0x00093d        0x185 ../../library/os-lib/lib.X.a(stimer.o)
+ .debug_line      0x000ac2        0x112 ../../library/os-lib/lib.X.a(str.o)
+ .debug_line      0x000bd4        0x198 ../../library/os-lib/lib.X.a(worker.o)
+ .debug_line      0x000d6c         0xf2 ../../library/os-lib/lib.X.a(adc.o)
+ .debug_line      0x000e5e         0xce ../../library/os-lib/lib.X.a(beep.o)
+ .debug_line      0x000f2c         0x6a ../../library/os-lib/lib.X.a(queue.o)
 
 .debug_frame      0x000000       0x1020
  *(.debug_frame)
@@ -689,20 +970,19 @@ __CONFIG1
  .debug_frame     0x000ef6         0xa6 ../../library/os-lib/lib.X.a(beep.o)
  .debug_frame     0x000f9c         0x84 ../../library/os-lib/lib.X.a(queue.o)
 
-.debug_str        0x000000        0x30b
+.debug_str        0x000000        0x302
  *(.debug_str)
- .debug_str       0x000000          0x9 ./output/main.o
- .debug_str       0x000009          0xb ../../library/os-lib/lib.X.a(mcu.o)
- .debug_str       0x000014         0xd4 ../../library/os-lib/lib.X.a(uart.o)
- .debug_str       0x0000e8         0x5c ../../library/os-lib/lib.X.a(led.o)
- .debug_str       0x000144         0x68 ../../library/os-lib/lib.X.a(os.o)
- .debug_str       0x0001ac         0x36 ../../library/os-lib/lib.X.a(psw.o)
- .debug_str       0x0001e2         0x1d ../../library/os-lib/lib.X.a(stimer.o)
- .debug_str       0x0001ff          0x7 ../../library/os-lib/lib.X.a(str.o)
- .debug_str       0x000206         0x1f ../../library/os-lib/lib.X.a(worker.o)
- .debug_str       0x000225         0x86 ../../library/os-lib/lib.X.a(adc.o)
- .debug_str       0x0002ab         0x5a ../../library/os-lib/lib.X.a(beep.o)
- .debug_str       0x000305          0x6 ../../library/os-lib/lib.X.a(queue.o)
+ .debug_str       0x000000          0xb ../../library/os-lib/lib.X.a(mcu.o)
+ .debug_str       0x00000b         0xd4 ../../library/os-lib/lib.X.a(uart.o)
+ .debug_str       0x0000df         0x5c ../../library/os-lib/lib.X.a(led.o)
+ .debug_str       0x00013b         0x68 ../../library/os-lib/lib.X.a(os.o)
+ .debug_str       0x0001a3         0x36 ../../library/os-lib/lib.X.a(psw.o)
+ .debug_str       0x0001d9         0x1d ../../library/os-lib/lib.X.a(stimer.o)
+ .debug_str       0x0001f6          0x7 ../../library/os-lib/lib.X.a(str.o)
+ .debug_str       0x0001fd         0x1f ../../library/os-lib/lib.X.a(worker.o)
+ .debug_str       0x00021c         0x86 ../../library/os-lib/lib.X.a(adc.o)
+ .debug_str       0x0002a2         0x5a ../../library/os-lib/lib.X.a(beep.o)
+ .debug_str       0x0002fc          0x6 ../../library/os-lib/lib.X.a(queue.o)
 
 .debug_loc
  *(.debug_loc)
@@ -711,34 +991,34 @@ __CONFIG1
  *(.debug_macinfo)
 
 .debug_pubnames
-                  0x000000        0xbd2
+                  0x000000        0xbc7
  *(.debug_pubnames)
  .debug_pubnames
-                  0x000000         0x35 ./output/main.o
+                  0x000000         0x2a ./output/main.o
  .debug_pubnames
-                  0x000035         0x7b ../../library/os-lib/lib.X.a(mcu.o)
+                  0x00002a         0x7b ../../library/os-lib/lib.X.a(mcu.o)
  .debug_pubnames
-                  0x0000b0        0x274 ../../library/os-lib/lib.X.a(uart.o)
+                  0x0000a5        0x274 ../../library/os-lib/lib.X.a(uart.o)
  .debug_pubnames
-                  0x000324         0xee ../../library/os-lib/lib.X.a(led.o)
+                  0x000319         0xee ../../library/os-lib/lib.X.a(led.o)
  .debug_pubnames
-                  0x000412         0x43 ../../library/os-lib/lib.X.a(event.o)
+                  0x000407         0x43 ../../library/os-lib/lib.X.a(event.o)
  .debug_pubnames
-                  0x000455        0x255 ../../library/os-lib/lib.X.a(os.o)
+                  0x00044a        0x255 ../../library/os-lib/lib.X.a(os.o)
  .debug_pubnames
-                  0x0006aa         0x8f ../../library/os-lib/lib.X.a(psw.o)
+                  0x00069f         0x8f ../../library/os-lib/lib.X.a(psw.o)
  .debug_pubnames
-                  0x000739         0xca ../../library/os-lib/lib.X.a(stimer.o)
+                  0x00072e         0xca ../../library/os-lib/lib.X.a(stimer.o)
  .debug_pubnames
-                  0x000803        0x179 ../../library/os-lib/lib.X.a(str.o)
+                  0x0007f8        0x179 ../../library/os-lib/lib.X.a(str.o)
  .debug_pubnames
-                  0x00097c         0xe0 ../../library/os-lib/lib.X.a(worker.o)
+                  0x000971         0xe0 ../../library/os-lib/lib.X.a(worker.o)
  .debug_pubnames
-                  0x000a5c         0x8a ../../library/os-lib/lib.X.a(adc.o)
+                  0x000a51         0x8a ../../library/os-lib/lib.X.a(adc.o)
  .debug_pubnames
-                  0x000ae6         0x9f ../../library/os-lib/lib.X.a(beep.o)
+                  0x000adb         0x9f ../../library/os-lib/lib.X.a(beep.o)
  .debug_pubnames
-                  0x000b85         0x4d ../../library/os-lib/lib.X.a(queue.o)
+                  0x000b7a         0x4d ../../library/os-lib/lib.X.a(queue.o)
 
 .debug_ranges
  *(.debug_ranges)
@@ -1358,90 +1638,162 @@ LOAD default_isr
 LOAD data_init
 
 .debug_pubtypes
-                  0x000138        0xa0f
+                  0x000138        0x9a2
  .debug_pubtypes
-                  0x000138         0x7f ./output/main.o
+                  0x000138         0x12 ./output/main.o
  .debug_pubtypes
-                  0x0001b7         0x33 ../../library/os-lib/lib.X.a(mcu.o)
+                  0x00014a         0x33 ../../library/os-lib/lib.X.a(mcu.o)
  .debug_pubtypes
-                  0x0001ea        0x27e ../../library/os-lib/lib.X.a(uart.o)
+                  0x00017d        0x27e ../../library/os-lib/lib.X.a(uart.o)
  .debug_pubtypes
-                  0x000468         0xeb ../../library/os-lib/lib.X.a(led.o)
+                  0x0003fb         0xeb ../../library/os-lib/lib.X.a(led.o)
  .debug_pubtypes
-                  0x000553         0x6e ../../library/os-lib/lib.X.a(event.o)
+                  0x0004e6         0x6e ../../library/os-lib/lib.X.a(event.o)
  .debug_pubtypes
-                  0x0005c1        0x17b ../../library/os-lib/lib.X.a(os.o)
+                  0x000554        0x17b ../../library/os-lib/lib.X.a(os.o)
  .debug_pubtypes
-                  0x00073c         0xe2 ../../library/os-lib/lib.X.a(psw.o)
+                  0x0006cf         0xe2 ../../library/os-lib/lib.X.a(psw.o)
  .debug_pubtypes
-                  0x00081e         0xba ../../library/os-lib/lib.X.a(stimer.o)
+                  0x0007b1         0xba ../../library/os-lib/lib.X.a(stimer.o)
  .debug_pubtypes
-                  0x0008d8         0xab ../../library/os-lib/lib.X.a(worker.o)
+                  0x00086b         0xab ../../library/os-lib/lib.X.a(worker.o)
  .debug_pubtypes
-                  0x000983        0x11a ../../library/os-lib/lib.X.a(adc.o)
+                  0x000916        0x11a ../../library/os-lib/lib.X.a(adc.o)
  .debug_pubtypes
-                  0x000a9d         0x8e ../../library/os-lib/lib.X.a(beep.o)
+                  0x000a30         0x8e ../../library/os-lib/lib.X.a(beep.o)
  .debug_pubtypes
-                  0x000b2b         0x1c ../../library/os-lib/lib.X.a(queue.o)
+                  0x000abe         0x1c ../../library/os-lib/lib.X.a(queue.o)
 
 __c30_signature
-                  0x000b47         0xa8
+                  0x000ada        0x180
  __c30_signature
-                  0x000b47          0x6 ./output/main.o
+                  0x000ada          0x6 ./output/main.o
  __c30_signature
-                  0x000b4d          0x6 ../../library/os-lib/lib.X.a(mcu.o)
+                  0x000ae0          0x6 ../../library/os-lib/lib.X.a(mcu.o)
  __c30_signature
-                  0x000b53          0x6 ../../library/os-lib/lib.X.a(uart.o)
+                  0x000ae6          0x6 ../../library/os-lib/lib.X.a(uart.o)
  __c30_signature
-                  0x000b59          0x6 ../../library/os-lib/lib.X.a(led.o)
+                  0x000aec          0x6 ../../library/os-lib/lib.X.a(led.o)
  __c30_signature
-                  0x000b5f          0x6 ../../library/os-lib/lib.X.a(event.o)
+                  0x000af2          0x6 ../../library/os-lib/lib.X.a(event.o)
  __c30_signature
-                  0x000b65          0x6 ../../library/os-lib/lib.X.a(os.o)
+                  0x000af8          0x6 ../../library/os-lib/lib.X.a(os.o)
  __c30_signature
-                  0x000b6b          0x6 ../../library/os-lib/lib.X.a(psw.o)
+                  0x000afe          0x6 ../../library/os-lib/lib.X.a(psw.o)
  __c30_signature
-                  0x000b71          0x6 ../../library/os-lib/lib.X.a(stimer.o)
+                  0x000b04          0x6 ../../library/os-lib/lib.X.a(stimer.o)
  __c30_signature
-                  0x000b77          0x6 ../../library/os-lib/lib.X.a(str.o)
+                  0x000b0a          0x6 ../../library/os-lib/lib.X.a(str.o)
  __c30_signature
-                  0x000b7d          0x6 ../../library/os-lib/lib.X.a(worker.o)
+                  0x000b10          0x6 ../../library/os-lib/lib.X.a(worker.o)
  __c30_signature
-                  0x000b83          0x6 ../../library/os-lib/lib.X.a(adc.o)
+                  0x000b16          0x6 ../../library/os-lib/lib.X.a(adc.o)
  __c30_signature
-                  0x000b89          0x6 ../../library/os-lib/lib.X.a(beep.o)
+                  0x000b1c          0x6 ../../library/os-lib/lib.X.a(beep.o)
  __c30_signature
-                  0x000b8f          0x6 ../../library/os-lib/lib.X.a(queue.o)
+                  0x000b22          0x6 ../../library/os-lib/lib.X.a(queue.o)
  __c30_signature
-                  0x000b95          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(crt0_standard.o)
+                  0x000b28          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(crt0_standard.o)
  __c30_signature
-                  0x000b9b          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(data_init_standard.o)
+                  0x000b2e          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(data_init_standard.o)
  __c30_signature
-                  0x000ba1          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(delay32.Leo)
+                  0x000b34          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(delay32.Leo)
  __c30_signature
-                  0x000ba7          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(addsf3.eo)
+                  0x000b3a          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(addsf3.eo)
  __c30_signature
-                  0x000bad          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divsf3.eo)
+                  0x000b40          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divsf3.eo)
  __c30_signature
-                  0x000bb3          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(feqltle.eo)
+                  0x000b46          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(feqltle.eo)
  __c30_signature
-                  0x000bb9          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fixunssfsi.eo)
+                  0x000b4c          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fixunssfsi.eo)
  __c30_signature
-                  0x000bbf          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatunsisf.eo)
+                  0x000b52          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatunsisf.eo)
  __c30_signature
-                  0x000bc5          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fpack.eo)
+                  0x000b58          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fpack.eo)
  __c30_signature
-                  0x000bcb          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(funpack.eo)
+                  0x000b5e          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(funpack.eo)
  __c30_signature
-                  0x000bd1          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(funpack2.eo)
+                  0x000b64          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(funpack2.eo)
  __c30_signature
-                  0x000bd7          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(futil.eo)
+                  0x000b6a          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(futil.eo)
  __c30_signature
-                  0x000bdd          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(mulsf3.eo)
+                  0x000b70          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(mulsf3.eo)
  __c30_signature
-                  0x000be3          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fcompare.eo)
+                  0x000b76          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fcompare.eo)
  __c30_signature
-                  0x000be9          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatundisf.eo)
+                  0x000b7c          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatundisf.eo)
+ __c30_signature
+                  0x000b82          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(sprintf_cdfFnopuxX.XXeo)
+ __c30_signature
+                  0x000b88          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xprintf_cdfFnopuxX.XXeo)
+ __c30_signature
+                  0x000b8e          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(memcpy.XX_eo)
+ __c30_signature
+                  0x000b94          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(strchr.XX_eo)
+ __c30_signature
+                  0x000b9a          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputtxt.XX_eo)
+ __c30_signature
+                  0x000ba0          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xvacopy.XX_eo)
+ __c30_signature
+                  0x000ba6          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xputfld_cdfFnopuxX.XXeo)
+ __c30_signature
+                  0x000bac          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo)
+ __c30_signature
+                  0x000bb2          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xgenld_cdfFnopuxX.XXeo)
+ __c30_signature
+                  0x000bb8          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(div.XX_eo)
+ __c30_signature
+                  0x000bbe          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(ldiv.XX_eo)
+ __c30_signature
+                  0x000bc4          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldunsca.XX_eo)
+ __c30_signature
+                  0x000bca          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xlitob.XX_eo)
+ __c30_signature
+                  0x000bd0          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xdnorm.XX_elo)
+ __c30_signature
+                  0x000bd6          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(deqltle.eo)
+ __c30_signature
+                  0x000bdc          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dgtge.eo)
+ __c30_signature
+                  0x000be2          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divdf3.eo)
+ __c30_signature
+                  0x000be8          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divsi3.eo)
+ __c30_signature
+                  0x000bee          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dpack.eo)
+ __c30_signature
+                  0x000bf4          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dunpack2.eo)
+ __c30_signature
+                  0x000bfa          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(extendsfdf.eo)
+ __c30_signature
+                  0x000c00          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(fixdfsi.eo)
+ __c30_signature
+                  0x000c06          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatsidf.eo)
+ __c30_signature
+                  0x000c0c          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(muldf3.eo)
+ __c30_signature
+                  0x000c12          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(subdf3.eo)
+ __c30_signature
+                  0x000c18          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(udivsi3.eo)
+ __c30_signature
+                  0x000c1e          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(umodsi3.eo)
+ __c30_signature
+                  0x000c24          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(mulsi3.eo)
+ __c30_signature
+                  0x000c2a          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(divmoddi3.eo)
+ __c30_signature
+                  0x000c30          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(adddf3.eo)
+ __c30_signature
+                  0x000c36          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dcompare.eo)
+ __c30_signature
+                  0x000c3c          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dpropagateNaN.eo)
+ __c30_signature
+                  0x000c42          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dtype.eo)
+ __c30_signature
+                  0x000c48          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(dunpack.eo)
+ __c30_signature
+                  0x000c4e          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatdidf.eo)
+ __c30_signature
+                  0x000c54          0x6 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\libm-elf.a(floatundidf.eo)
 
 .nbss               0x0800         0x16
  .nbss              0x0800          0xa ../../library/os-lib/lib.X.a(os.o)
@@ -1472,7 +1824,7 @@ __c30_signature
                     0x0820                  _timer_count_g
  .nbss              0x0822          0x2 ../../library/os-lib/lib.X.a(worker.o)
 
-.bss                0x0824       0x126e
+.bss                0x0824       0x11d0
  .bss               0x0824        0xf08 ../../library/os-lib/lib.X.a(uart.o)
                     0x0824                  _uart1
                     0x0a82                  _uart2
@@ -1485,12 +1837,22 @@ __c30_signature
                     0x188c                  _os_sys_time
  .bss               0x199a         0x5a ../../library/os-lib/lib.X.a(worker.o)
                     0x199a                  _worker_objects
- .bss               0x19f4         0x46 ../../library/os-lib/lib.X.a(stimer.o)
-                    0x19f4                  _timers
- .bss               0x1a3a         0x30 ../../library/os-lib/lib.X.a(led.o)
-                    0x1a3a                  _leds
- .bss               0x1a6a         0x28 ../../library/os-lib/lib.X.a(psw.o)
-                    0x1a6a                  _switches
+
+.data               0x19f4         0x58
+ .data              0x19f4         0x58 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xldtob_cdfFnopuxX.XXeo)
+
+.bss                0x1a4c         0x9e
+ .bss               0x1a4c         0x46 ../../library/os-lib/lib.X.a(stimer.o)
+                    0x1a4c                  _timers
+ .bss               0x1a92         0x30 ../../library/os-lib/lib.X.a(led.o)
+                    0x1a92                  _leds
+ .bss               0x1ac2         0x28 ../../library/os-lib/lib.X.a(psw.o)
+                    0x1ac2                  _switches
+
+.data               0x1aea         0x3e
+ .data              0x1aea         0x22 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xlitob.XX_eo)
+ .data              0x1b0c         0x1a c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xprintf_cdfFnopuxX.XXeo)
+ .data              0x1b26          0x2 c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-c-elf.a(xgenld_cdfFnopuxX.XXeo)
 
 .config_JTAGEN    0x0083fe          0x2
  .config_JTAGEN
@@ -1534,151 +1896,150 @@ __c30_signature
  .ivt._T3Interrupt
                   0x000024          0x2 ../../library/os-lib/lib.X.a(adc.o)
 
-.const              0x8926          0xe load address 0x000926  
- .const             0x8926          0x6 ./output/main.o
- .const             0x892c          0x6 ../../library/os-lib/lib.X.a(os.o)
- .const             0x8932          0x2 ../../library/os-lib/lib.X.a(worker.o)
+.const              0x9e66         0x62 load address 0x001e66  
+ .const             0x9e66         0x5a ./output/main.o
+ .const             0x9ec0          0x6 ../../library/os-lib/lib.X.a(os.o)
+ .const             0x9ec6          0x2 ../../library/os-lib/lib.X.a(worker.o)
 
-.text             0x000934       0x2300
- .text            0x000934        0x7c2 ../../library/os-lib/lib.X.a(uart.o)
-                  0x000934                  _Uart1_GetRingBuffer
-                  0x00096c                  _Uart2_GetRingBuffer
-                  0x0009a4                  _Uart1_ClearRingBuffer
-                  0x0009ce                  _Uart2_ClearRingBuffer
-                  0x0009f8                  _Uart1_Init
-                  0x000b00                  _Uart2_Init
-                  0x000c08                  _Uart1_AsyncWriteString
-                  0x000c92                  _Uart2_AsyncWriteString
-                  0x000d1a                  _Uart1_AsyncWriteBytes
-                  0x000d8e                  _Uart1_AsyncWriteData
-                  0x000e0e                  _Uart1_AsyncPutByte
-                  0x000e64                  _Uart2_AsyncWriteBytes
-                  0x000ed8                  _Uart2_AsyncWriteData
-                  0x000f58                  _Uart2_AsyncPutByte
-                  0x000fde                  _Uart1_WriteString
-                  0x001008                  _Uart2_WriteString
-                  0x001032                  _Uart1_PutByte
-                  0x001040                  _Uart2_PutByte
-                  0x00104e                  _Uart1_WriteBytes
-                  0x001082                  _Uart2_WriteBytes
-                  0x0010b6                  _Uart1_GetByte
-                  0x0010d6                  _Uart2_GetByte
- .text            0x0010f6        0x5c6 ../../library/os-lib/lib.X.a(os.o)
-                  0x0010f6                  _OS_SystemTickSetCallback
-                  0x001108                  _OS_Uart1SetRxCallback
-                  0x001114                  _OS_Uart1SetLineReceivedCallback
-                  0x001120                  _OS_Uart1SetTxCallback
-                  0x00112c                  _OS_Uart2SetRxCallback
-                  0x001138                  _OS_Uart2SetLineReceivedCallback
-                  0x001144                  _OS_Uart2SetTxCallback
-                  0x001150                  _OS_WiFiSetFrameReceivedCallback
-                  0x00115c                  _OS_TimeService
-                  0x0011a8                  _OS_TimeGet
-                  0x0011cc                  _OS_TimeSet
-                  0x0011f0                  _OS_TimeHighResolution
-                  0x001220                  _OS_TimeMicroseconds
-                  0x001248                  _OS_TimeMilliseconds
-                  0x001252                  _OS_TickedCheck
-                  0x001264                  _OS_TimerCoreInit
-                  0x001282                  _OS_Sleep
-                  0x00128e                  _OS_Initialise
-                  0x0012a6                  _OS_WiFiFrameDetect
-                  0x00142a                  _OS_LineDetect
-                  0x00148c                  _OS_Execute
- .text            0x0016bc        0x5aa ../../library/os-lib/lib.X.a(str.o)
-                  0x0016bc                  _str_length
-                  0x0016e2                  _str_copy
-                  0x00171c                  _str_raw_copy
-                  0x00175a                  _str_index_of_first_token
-                  0x0017c4                  _str_raw_index_of_first_token
-                  0x00182e                  _str_index_of_last_token
-                  0x00189e                  _str_first_char
-                  0x0018e0                  _str_index_of_first_char
-                  0x001916                  _str_index_of_last_char
-                  0x00194e                  _str_last_char
-                  0x001994                  _str_sub_string
-                  0x001a22                  _str_crop_string
-                  0x001a7c                  _str_to_int
-                  0x001b0c                  _str_trim_left
-                  0x001b62                  _str_trim_right
-                  0x001bb4                  _str_remove_char
-                  0x001c06                  _str_replace_char
- .text            0x001c66        0x41a ../../library/os-lib/lib.X.a(led.o)
-                  0x001c66                  _LED_Service
-                  0x001d3a                  _LED_Flash
-                  0x001d56                  _LED_ModeSet
-                  0x001d6e                  _LED_PwmSet
-                  0x001da0                  _LED_SetPwmPeriod
-                  0x001dc8                  _LED_PwmSetOnTime
-                  0x001df0                  _LED_PwmSetShift
-                  0x001e18                  _LED_Write
-                  0x001e90                  _LED_Read
-                  0x001ec6                  _LED_Init
-                  0x001f1e                  _LED_Set
-                  0x001f50                  _LED_Clr
-                  0x001f82                  _LED_Inv
-                  0x00201c                  _LED_Get
- .text            0x002080        0x2e0 ../../library/os-lib/lib.X.a(worker.o)
-                  0x002080                  _OS_WorkerInit
-                  0x0020d2                  _OS_WorkerCreate
-                  0x002144                  _OS_WorkerDelete
-                  0x0021b0                  _OS_WorkerSetCallback
-                  0x0021ce                  _OS_WorkerSleep
-                  0x0021f8                  _OS_WorkerWakeup
-                  0x002226                  _OS_WorkerWaitData
-                  0x002250                  _OS_WorkerSendData
-                  0x00227e                  _OS_WorkerService
- .text            0x002360        0x28a ../../library/os-lib/lib.X.a(psw.o)
-                  0x002360                  _PSW_Init
-                  0x0023a0                  _OS_SwitchSetCallback
-                  0x0023ba                  _PSW_Get
-                  0x002424                  _PSW_Scan
-                  0x002462                  _PSW_Read
-                  0x0024d2                  _PSW_Service
- .text            0x0025ea        0x260 ../../library/os-lib/lib.X.a(stimer.o)
-                  0x0025ea                  _OS_TimerInit
-                  0x002636                  _OS_TimerCreate
-                  0x0026a4                  _OS_TimerDelete
-                  0x002702                  _OS_TimerSetCallback
-                  0x002720                  _OS_TimerSetTicks
-                  0x00273e                  _OS_TimerStop
-                  0x00275a                  _OS_TimerStart
-                  0x00277e                  _OS_TimerService
- .text            0x00284a        0x122 ../../library/os-lib/lib.X.a(beep.o)
-                  0x00284a                  _Beep_Init
-                  0x00288a                  _Beep_FreqSet
-                  0x0028d6                  _Beep_PowerSet
-                  0x002902                  _Beep
-                  0x00293e                  _Beep_Service
- .text            0x00296c         0xfe ../../library/os-lib/lib.X.a(queue.o)
-                  0x00296c                  _Queue_Init
-                  0x00299c                  _Queue_Put
-                  0x0029f8                  _Queue_Get
-                  0x002a58                  _Queue_Space
- .text            0x002a6a         0xb0 ../../library/os-lib/lib.X.a(event.o)
-                  0x002a6a                  _OS_EventPut
-                  0x002ab6                  _OS_EventGet
-                  0x002b04                  _OS_EventLoop
- .text            0x002b1a         0xac ../../library/os-lib/lib.X.a(adc.o)
-                  0x002b1a                  _ADC_Service
-                  0x002b20                  _Timer3Init
-                  0x002b3c                  _ADC_Scan
-                  0x002b42                  _ADC_Read
-                  0x002b54                  _ADC_Init
- .text            0x002bc6         0x6e ./output/main.o
-                  0x002bc6                  _Controller
-                  0x002bce                  _Action
-                  0x002bee                  _main
+.text             0x001ec8       0x2136
+ .text            0x001ec8        0x7c2 ../../library/os-lib/lib.X.a(uart.o)
+                  0x001ec8                  _Uart1_GetRingBuffer
+                  0x001f00                  _Uart2_GetRingBuffer
+                  0x001f38                  _Uart1_ClearRingBuffer
+                  0x001f62                  _Uart2_ClearRingBuffer
+                  0x001f8c                  _Uart1_Init
+                  0x002094                  _Uart2_Init
+                  0x00219c                  _Uart1_AsyncWriteString
+                  0x002226                  _Uart2_AsyncWriteString
+                  0x0022ae                  _Uart1_AsyncWriteBytes
+                  0x002322                  _Uart1_AsyncWriteData
+                  0x0023a2                  _Uart1_AsyncPutByte
+                  0x0023f8                  _Uart2_AsyncWriteBytes
+                  0x00246c                  _Uart2_AsyncWriteData
+                  0x0024ec                  _Uart2_AsyncPutByte
+                  0x002572                  _Uart1_WriteString
+                  0x00259c                  _Uart2_WriteString
+                  0x0025c6                  _Uart1_PutByte
+                  0x0025d4                  _Uart2_PutByte
+                  0x0025e2                  _Uart1_WriteBytes
+                  0x002616                  _Uart2_WriteBytes
+                  0x00264a                  _Uart1_GetByte
+                  0x00266a                  _Uart2_GetByte
+ .text            0x00268a        0x5c6 ../../library/os-lib/lib.X.a(os.o)
+                  0x00268a                  _OS_SystemTickSetCallback
+                  0x00269c                  _OS_Uart1SetRxCallback
+                  0x0026a8                  _OS_Uart1SetLineReceivedCallback
+                  0x0026b4                  _OS_Uart1SetTxCallback
+                  0x0026c0                  _OS_Uart2SetRxCallback
+                  0x0026cc                  _OS_Uart2SetLineReceivedCallback
+                  0x0026d8                  _OS_Uart2SetTxCallback
+                  0x0026e4                  _OS_WiFiSetFrameReceivedCallback
+                  0x0026f0                  _OS_TimeService
+                  0x00273c                  _OS_TimeGet
+                  0x002760                  _OS_TimeSet
+                  0x002784                  _OS_TimeHighResolution
+                  0x0027b4                  _OS_TimeMicroseconds
+                  0x0027dc                  _OS_TimeMilliseconds
+                  0x0027e6                  _OS_TickedCheck
+                  0x0027f8                  _OS_TimerCoreInit
+                  0x002816                  _OS_Sleep
+                  0x002822                  _OS_Initialise
+                  0x00283a                  _OS_WiFiFrameDetect
+                  0x0029be                  _OS_LineDetect
+                  0x002a20                  _OS_Execute
+ .text            0x002c50        0x5aa ../../library/os-lib/lib.X.a(str.o)
+                  0x002c50                  _str_length
+                  0x002c76                  _str_copy
+                  0x002cb0                  _str_raw_copy
+                  0x002cee                  _str_index_of_first_token
+                  0x002d58                  _str_raw_index_of_first_token
+                  0x002dc2                  _str_index_of_last_token
+                  0x002e32                  _str_first_char
+                  0x002e74                  _str_index_of_first_char
+                  0x002eaa                  _str_index_of_last_char
+                  0x002ee2                  _str_last_char
+                  0x002f28                  _str_sub_string
+                  0x002fb6                  _str_crop_string
+                  0x003010                  _str_to_int
+                  0x0030a0                  _str_trim_left
+                  0x0030f6                  _str_trim_right
+                  0x003148                  _str_remove_char
+                  0x00319a                  _str_replace_char
+ .text            0x0031fa        0x41a ../../library/os-lib/lib.X.a(led.o)
+                  0x0031fa                  _LED_Service
+                  0x0032ce                  _LED_Flash
+                  0x0032ea                  _LED_ModeSet
+                  0x003302                  _LED_PwmSet
+                  0x003334                  _LED_SetPwmPeriod
+                  0x00335c                  _LED_PwmSetOnTime
+                  0x003384                  _LED_PwmSetShift
+                  0x0033ac                  _LED_Write
+                  0x003424                  _LED_Read
+                  0x00345a                  _LED_Init
+                  0x0034b2                  _LED_Set
+                  0x0034e4                  _LED_Clr
+                  0x003516                  _LED_Inv
+                  0x0035b0                  _LED_Get
+ .text            0x003614        0x2e0 ../../library/os-lib/lib.X.a(worker.o)
+                  0x003614                  _OS_WorkerInit
+                  0x003666                  _OS_WorkerCreate
+                  0x0036d8                  _OS_WorkerDelete
+                  0x003744                  _OS_WorkerSetCallback
+                  0x003762                  _OS_WorkerSleep
+                  0x00378c                  _OS_WorkerWakeup
+                  0x0037ba                  _OS_WorkerWaitData
+                  0x0037e4                  _OS_WorkerSendData
+                  0x003812                  _OS_WorkerService
+ .text            0x0038f4        0x28a ../../library/os-lib/lib.X.a(psw.o)
+                  0x0038f4                  _PSW_Init
+                  0x003934                  _OS_SwitchSetCallback
+                  0x00394e                  _PSW_Get
+                  0x0039b8                  _PSW_Scan
+                  0x0039f6                  _PSW_Read
+                  0x003a66                  _PSW_Service
+ .text            0x003b7e        0x260 ../../library/os-lib/lib.X.a(stimer.o)
+                  0x003b7e                  _OS_TimerInit
+                  0x003bca                  _OS_TimerCreate
+                  0x003c38                  _OS_TimerDelete
+                  0x003c96                  _OS_TimerSetCallback
+                  0x003cb4                  _OS_TimerSetTicks
+                  0x003cd2                  _OS_TimerStop
+                  0x003cee                  _OS_TimerStart
+                  0x003d12                  _OS_TimerService
+ .text            0x003dde        0x122 ../../library/os-lib/lib.X.a(beep.o)
+                  0x003dde                  _Beep_Init
+                  0x003e1e                  _Beep_FreqSet
+                  0x003e6a                  _Beep_PowerSet
+                  0x003e96                  _Beep
+                  0x003ed2                  _Beep_Service
+ .text            0x003f00         0xfe ../../library/os-lib/lib.X.a(queue.o)
+                  0x003f00                  _Queue_Init
+                  0x003f30                  _Queue_Put
+                  0x003f8c                  _Queue_Get
+                  0x003fec                  _Queue_Space
 
-.dinit            0x002c34         0x62
- .dinit           0x002c34         0x62 data_init
+.dinit            0x003ffe         0xe2
+ .dinit           0x003ffe         0xe2 data_init
 
-.text             0x002c96         0x40
- .text            0x002c96         0x40 ../../library/os-lib/lib.X.a(mcu.o)
-                  0x002c96                  _MCU_UnlockRegisters
-                  0x002ca8                  _MCU_LockRegisters
-                  0x002cba                  _MCU_Init
+.text             0x0040e0        0x21e
+ .text            0x0040e0         0xb0 ../../library/os-lib/lib.X.a(event.o)
+                  0x0040e0                  _OS_EventPut
+                  0x00412c                  _OS_EventGet
+                  0x00417a                  _OS_EventLoop
+ .text            0x004190         0xac ../../library/os-lib/lib.X.a(adc.o)
+                  0x004190                  _ADC_Service
+                  0x004196                  _Timer3Init
+                  0x0041b2                  _ADC_Scan
+                  0x0041b8                  _ADC_Read
+                  0x0041ca                  _ADC_Init
+ .text            0x00423c         0x82 ./output/main.o
+                  0x00423c                  _Controller
+                  0x004248                  _main
+ .text            0x0042be         0x40 ../../library/os-lib/lib.X.a(mcu.o)
+                  0x0042be                  _MCU_UnlockRegisters
+                  0x0042d0                  _MCU_LockRegisters
+                  0x0042e2                  _MCU_Init
 
-.init.delay32     0x002cd6         0x1c
- .init.delay32    0x002cd6         0x1c c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(delay32.Leo)
-                  0x002cd6                  ___delay32
+.init.delay32     0x0042fe         0x1c
+ .init.delay32    0x0042fe         0x1c c:/program files (x86)/microchip/xc16/v1.41/bin/bin/../../lib\liblega-pic30-elf.a(delay32.Leo)
+                  0x0042fe                  ___delay32
