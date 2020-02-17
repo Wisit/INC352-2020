@@ -16,7 +16,8 @@ Notes:
 - 27 January 2020:  **Circuit simulation**
 - 03 February 2020: **Memory and APIs**
 - 10 February 2020: **C programming  and applications**
- 
+- 17 February 2020: **APIs and C programming, Events, and applications**
+- 24 February 2020:  **Example applications** ((Quiz: Events of timers, switchs and uart))
 
 ---
 
