@@ -4,7 +4,7 @@
 
 ---
 
-## :movie_camera: News
+## :mega: News
 
 - *22 March 2020* : Please check this repository frequently.
 
