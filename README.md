@@ -12,9 +12,12 @@
 
 ## :movie_camera: Videos
 
-1) [Introduction to INC352 #2](https://www.youtube.com/watch?v=9apwFpkdAqQ)
-2) *coming soon...*
-3) *coming soon...*
+1) [Introduction to INC352, 2<sup>nd</sup> Semester](https://www.youtube.com/watch?v=9apwFpkdAqQ)
+
+2) [Create shortcut and run the LabVIEW](https://www.youtube.com/watch?v=_rThNHfjWRY)
+
+
+> Other videos will be updated soon.
 
 ---
 
