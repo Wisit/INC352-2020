@@ -1,0 +1,7 @@
+Next week, 5 points:
+   - C Programming         
+   - LED Control
+   - Switch
+   - Timer
+   - Uart
+
