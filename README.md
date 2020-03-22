@@ -1,6 +1,6 @@
 # INC352
 
-Embedded Systems and Industrial Automation Applications.
+## Embedded Systems and Industrial Automation Applications
 
 ---
 
@@ -20,8 +20,31 @@ Embedded Systems and Industrial Automation Applications.
 
 ## :books: Documents
 
-:link: [Install LabView 2019](https://github.com/drsanti/shared/blob/master/2020/docs/labview/install/README.md)
+#### 2<sup>nd</sup> Semester Documents
 
+[INC352-2020-Lec-Lab-01-LabVIEW-Basics.pdf](docs/INC352-2020-Lec-Lab-01-LabVIEW-Basics.pdf)
+
+> :link: [Install LabView 2019](https://github.com/drsanti/shared/blob/master/2020/docs/labview/install/README.md)
+
+---
+
+#### 1<sup>st</sup> Semester Documents
+
+[INC352_Week01_Introduction.pdf](docs/INC352_Week01_Introduction.pdf)
+
+[INC352_Week02_Tools_and_C_Programming.pdf](docs/INC352_Week02_Tools_and_C_Programming.pdf)
+
+[INC352_Week03_Library_Functions.pdf](docs/INC352_Week03_Library_Functions.pdf)
+
+[ecc-os-apis.pdf](docs/ecc-pic24-data/ecc-os-apis.pdf)
+
+[ecc-pic24-pcb.pdf](docs/ecc-pic24-data/ecc-pic24-pcb.pdf)
+
+[ecc-pic24-sch.pdf](docs/ecc-pic24-data/ecc-pic24-sch.pdf)
+
+
+
+---
 
 ![INC352 Cover](/Resources/images/inc352-cover.png)
 
@@ -51,4 +74,3 @@ Notes:
 - 07 February 2020: **Memory**
 - 14 February 2020: **APIs and C programming, Events, and applications** ((Quiz: workflows, variables, printf, UART))
 - 21 February 2020: **Example applications** ((Quiz: Events of timers, switchs and uart))
-
