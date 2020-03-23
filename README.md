@@ -16,11 +16,11 @@
 
 2) [Create shortcut and run the LabVIEW](https://www.youtube.com/watch?v=_rThNHfjWRY)
 
-2) [Create and save a *.vi file](https://www.youtube.com/watch?v=rpwErt4HA1k)
+3) [Create and save a *.vi file](https://www.youtube.com/watch?v=rpwErt4HA1k)
 
-2) [Fron Panel vs. Block Diagram](https://www.youtube.com/watch?v=OiILpKa2KBs)
+4) [Fron Panel vs. Block Diagram](https://www.youtube.com/watch?v=OiILpKa2KBs)
 
-
+5) [Working Environment and Settings](https://www.youtube.com/watch?v=HShuZReOxv0)
 
 > Other videos will be updated soon.
 
