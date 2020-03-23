@@ -18,6 +18,8 @@
 
 2) [Create and save a *.vi file](https://www.youtube.com/watch?v=rpwErt4HA1k)
 
+2) [Fron Panel vs. Block Diagram](https://www.youtube.com/watch?v=OiILpKa2KBs)
+
 
 
 > Other videos will be updated soon.
