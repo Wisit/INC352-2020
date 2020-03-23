@@ -16,6 +16,9 @@
 
 2) [Create shortcut and run the LabVIEW](https://www.youtube.com/watch?v=_rThNHfjWRY)
 
+2) [Create and save a *.vi file](https://www.youtube.com/watch?v=rpwErt4HA1k)
+
+
 
 > Other videos will be updated soon.
 
