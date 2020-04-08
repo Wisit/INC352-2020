@@ -22,6 +22,14 @@
 
 5) [Working Environment and Settings](https://www.youtube.com/watch?v=HShuZReOxv0)
 
+6) [Front Panel and Block Diagram](https://www.youtube.com/watch?v=x4sobgqN5qI)
+
+7) [Data Types and Data Conversion](https://www.youtube.com/watch?v=p4fbbaLBeas)
+
+8) [ Mathematical Operations and Data Conversions](https://www.youtube.com/watch?v=KCnQJQPEfKg)
+
+9) [Array and Array Operations](https://www.youtube.com/watch?v=cPy6VAEKnvc)
+
 > Other videos will be updated soon.
 
 ---
