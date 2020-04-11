@@ -30,6 +30,8 @@
 
 9) [Array and Array Operations](https://www.youtube.com/watch?v=cPy6VAEKnvc)
 
+10) [String and String Operations](https://www.youtube.com/watch?v=CXMG7S_3XQQ)
+
 > Other videos will be updated soon.
 
 ---
