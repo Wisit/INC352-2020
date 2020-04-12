@@ -34,6 +34,8 @@
 
 11) [Data-Flow and Program-Flow Control](https://www.youtube.com/watch?v=mKDBi-ZH8uk)
 
+12) [For-Loop and Its Features](https://www.youtube.com/watch?v=pZYA_g-DYFo)
+
 > Other videos will be updated soon.
 
 ---
