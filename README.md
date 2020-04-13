@@ -36,6 +36,8 @@
 
 12) [For-Loop and Its Features](https://www.youtube.com/watch?v=pZYA_g-DYFo)
 
+13) [While-Loop and Its Features](https://www.youtube.com/watch?v=LEthA-OKZbA)
+
 > Other videos will be updated soon.
 
 ---
