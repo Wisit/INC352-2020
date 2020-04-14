@@ -38,6 +38,8 @@
 
 13) [While-Loop and Its Features](https://www.youtube.com/watch?v=LEthA-OKZbA)
 
+14) [Event Structure](https://www.youtube.com/watch?v=3GYQ-A-BnvE)
+
 > Other videos will be updated soon.
 
 ---
