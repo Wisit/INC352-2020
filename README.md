@@ -4,9 +4,68 @@
 
 ---
 
-## :mega: News
 
-- *22 March 2020* : Please check this repository frequently.
+## :pushpin: Final Assignment
+
+### Design and complete a mini-project:
+
+- Design a mini-project to meet the minimum requirements (see below)
+
+- The circuit can be run in the Proteus simulator
+
+- Develop a LabVIEW-based control and monitoring application
+
+- All sensors in the circuit can be monitored by the LabVIEW application
+
+- All actuator in the circuit can be controlled by the LabVIEW application
+
+> Check the [video](https://www.youtube.com/watch?v=-wb7nySQkYc) for more details and guidelines.
+In the video, it's the example of web-based. You can replace by the **LabVIEW-base**
+
+### Minimum requirements of the system:
+
+- Two digital output sensors
+
+- Two analog output sensors
+
+- Two digital input actuators
+
+- One PWM input actuators
+
+#### Note:
+
+Our simulation circuit has the followings
+
+- 4-channel of voltage sources, the POTs (can be used as the analog output sensors)
+
+- 4-channel of switches, the PSWs (can be used as the digital output sensors)
+
+- 4-channel of digital output, the LEDs (can be used as the normal digital input actuators)
+
+- 4-channel of PWM signal output, the PWMs (can be used as the PWM input actuators)
+
+- 1-channel of Beep sound generator, the Buzzer (can be used for alarming)
+
+
+#### Tasks:
+
+- Complete the document (engineering document)
+
+- Complete the **LabVIEW-based** application
+
+- Complete the video presentation (20-30 minutes long)
+
+#### Submission:
+
+- Deadline: **30 May 2020**
+
+- A **pdf document** and **source code** must be compressed as a `*.zib`, `*.rar` or `*.7-zip`
+
+- A video presentation must be uploaded to online storage, e.g., YouTube, and send the link (URL) to the e-mail.
+
+- Submit the compressed file and link of the video to **santi.inc.kmutt@gmail.com**
+
+- The email title must be **INC366-xxx**, where the **xx** is your student id.
 
 ---
 
