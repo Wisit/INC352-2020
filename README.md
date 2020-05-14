@@ -99,6 +99,19 @@ Our simulation circuit has the followings
 
 14) [Event Structure](https://www.youtube.com/watch?v=3GYQ-A-BnvE)
 
+---
+
+## :movie_camera: Embedded Systems and LabVIEW
+
+1) [EP01 - Introduction Preparation](https://www.youtube.com/watch?v=LLS9VSnMBco)
+
+
+2) [EP02 - Using the ECC-SubVis](https://www.youtube.com/watch?v=WMFDzBtwqEc)
+
+3) [EP03 - Dynamic and External Events](https://www.youtube.com/watch?v=7wW-d2y0Zkw)
+
+4) [EP04 - Digital Output Control Functions](https://www.youtube.com/watch?v=iN2qZzaPBIw)
+
 > Other videos will be updated soon.
 
 ---
