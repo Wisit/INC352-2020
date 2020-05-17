@@ -112,6 +112,12 @@ Our simulation circuit has the followings
 
 4) [EP04 - Digital Output Control Functions](https://www.youtube.com/watch?v=iN2qZzaPBIw)
 
+5) [EP05 - Advanced Digital Signal Generator](https://www.youtube.com/watch?v=dYxP6l5h-1k)
+
+6) [EP06 - Beep Sound and PWM Signals Generators](https://www.youtube.com/watch?v=pu83t9tvQZw)
+
+7) [EP07 - Digital Input On-Changed Events](https://www.youtube.com/watch?v=b_Q9EYeBIcQ)
+
 > Other videos will be updated soon.
 
 ---
