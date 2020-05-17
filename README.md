@@ -65,7 +65,7 @@ Our simulation circuit has the followings
 
 - Submit the compressed file and link of the video to **santi.inc.kmutt@gmail.com**
 
-- The email title must be **INC366-xxx**, where the **xx** is your student id.
+- The email title must be **INC352-xxx**, where the **xx** is your student id.
 
 ---
 
